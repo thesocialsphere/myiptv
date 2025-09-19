@@ -1,6 +1,5 @@
 #EXTM3U
 
-############ NEWS ############
 #EXTINF:-1 tvg-id="BBCNewsUK.uk" tvg-name="BBC News UK",BBC News UK
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 
@@ -19,7 +18,6 @@ https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24",France 24
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 
-############ KIDS ############
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
@@ -38,7 +36,6 @@ https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LegoChannel.dk" tvg-name="Lego Channel",Lego Channel
 https://jmp2.uk/stvp-GBBC4300005AL
 
-############ MOVIES ############
 #EXTINF:-1 tvg-id="USClassicCinema.us" tvg-name="US Classic Cinema",US Classic Cinema
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
@@ -57,7 +54,6 @@ https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="CinevaultClassics.us" tvg-name="Cinevault Classics",Cinevault Classics
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
 
-############ LIFESTYLE & CULTURE ############
 #EXTINF:-1 tvg-id="TheBeachChannel.us" tvg-name="The Beach Channel",The Beach Channel
 https://stream.castr.com/67320cbb6b3df3c4694581ce/live_a80e55b0a03411efa6eeb56ae1378053/index.m3u8
 
@@ -85,11 +81,9 @@ https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
 #EXTINF:-1 tvg-id="BBCOneLondon.uk" tvg-name="BBC One London",BBC One London
 https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
 
-############ COMEDY & ENTERTAINMENT ############
 #EXTINF:-1 tvg-id="MrBeanTV.uk" tvg-name="Mr. Bean TV",Mr. Bean TV
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 
-############ MUSIC ############
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-name="NOW Rock",NOW Rock
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 
@@ -105,7 +99,6 @@ https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="iHeartRadioAlternative.us" tvg-name="iHeartRadio Alternative",iHeartRadio Alternative
 https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8
 
-############ SPECIAL INTEREST ############
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth",WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 
@@ -117,3 +110,39 @@ https://rakutenaa-myzen-en-rakuten-5sex7.amagi.tv/playlist/rakutenAA-myzen-en-ra
 
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network",The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGNTV.jp" tvg-name="Japan CGNTV",Japan CGNTV
+https:\\d2p4mrcwl6ly4.cloudfront.net\out\v1\8d50f69fdbbf411a8d302743e4263716\CGNWebLiveJP.m3u8
+
+#EXTINF:-1 tvg-id="JapanCGNTV.jp" tvg-name="Japan CGNTV",Japan CGNTV
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV",Nippon TV
+https://ntv4.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="30AMusicChannel.us" tvg-name="30A Music Channel",30A Music Channel
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst",BabyFirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.us" tvg-name="Cartoon Classics",Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CuisineCulture.fr" tvg-name="Cuisine Culture",Cuisine Culture
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/34839a9b-a901-4f31-b593-07555f7937d4/manifest.m3u8
+
+#EXTINF:-1 tvg-id="KiddoPlus.us" tvg-name="Kiddo+",Kiddo+
+https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="TrueHistory.uk" tvg-name="True History",True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheExplorers.fr" tvg-name="The Explorers",The Explorers
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+
+#EXTINF:-1 tvg-id="NauticalChannel.fr" tvg-name="Nautical Channel",Nautical Channel
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
